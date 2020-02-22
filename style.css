@@ -95,3 +95,29 @@ nav {
 
     }
 }
+
+.bio {
+    font-family: 'Quicksand';
+    letter-spacing: 3px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.bio-text {
+    font-size: 14px;
+}
+
+.bio-heading {
+    font-size: 25px;
+}
+
+.links {
+    padding-top: 10px;
+}
+
+body {
+    background-color: ivory;
+}

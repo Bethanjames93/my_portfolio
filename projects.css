@@ -1,7 +1,9 @@
 .container {
     position: relative;
-    width: 300px;
+    width: 400px;
+    float: left;
     margin-left: 20px;
+    margin-bottom: 20px;
 }
 
 .projectimage {

@@ -61,10 +61,11 @@ nav {
     }
     .nav-items{
         position: absolute;
+        z-index: 1;
         right: 0px;
         height: 92vh;
         top: 9vh;
-        width: 50%;
+        width: 40%;
         background-color: #BC8F8F;
         display: flex;
         flex-direction: column;
@@ -134,4 +135,8 @@ body {
     float: left;
     margin-left: 20px;
     margin-bottom: 20px;
+}
+
+.skill-li {
+    text-decoration: none;
 }

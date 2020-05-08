@@ -115,8 +115,13 @@ nav {
     font-size: 25px;
 }
 
-.links {
-    padding-top: 10px;
+.bio-sub-heading {
+    font-size: 18px;
+}
+
+.bio-link {
+    letter-spacing: 2px;
+    color: #000000;
 }
 
 body {

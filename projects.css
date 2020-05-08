@@ -42,4 +42,11 @@
     margin-bottom: 10px;
 }
 
+a {
+    letter-spacing: 2px;
+    color: #000000;
+    font-family: 'Quicksand', sans-serif;
+    text-decoration: none;
+}
+
 

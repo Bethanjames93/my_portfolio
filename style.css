@@ -34,6 +34,7 @@ nav {
 .nav-items a {
     text-decoration: none;
     letter-spacing: 2px;
+    color: #000000;
 }
 
 .burger {
@@ -120,4 +121,12 @@ nav {
 
 body {
     background-color: ivory;
+}
+
+.container {
+    position: relative;
+    width: 400px;
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
 }
